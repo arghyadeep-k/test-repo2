@@ -1,4 +1,6 @@
 SCM:
         repo: abc
         branch: master
+        credentials: 
+
 
